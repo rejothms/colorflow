@@ -11,8 +11,8 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Dossier Portal",
-  description: "Dossier totaaloverzicht portal",
+  title: "Color flow",
+  description: "Color flow",
 };
 
 export default function RootLayout({
